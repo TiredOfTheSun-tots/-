@@ -1,0 +1,31 @@
+body{
+margin: 0;
+}
+
+.vsem-divam-div {
+margin-top: 10px;
+border: 400px;
+display: inline-block;
+}
+
+.head {
+font-size: 20px;
+background-color: #5E81A8;
+padding-left: 60px;
+padding-bottom: 1px;
+padding-top: 1px;
+color: #fff;
+}
+
+.Vk {
+padding-left: 60px;
+padding-right: 200px;
+border-right: 1px solid black;
+    display: inline-block;
+}
+
+.kV {
+padding-left: 60px;
+padding-right: 500px;
+    display: inline-block;
+}
